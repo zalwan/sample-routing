@@ -1,0 +1,10 @@
+body {
+	margin: 0 auto;
+	padding: 2rem 0;
+	max-width: 50rem;
+}
+
+h1 {
+	line-height: 1;
+	text-transform: capitalize;
+}
