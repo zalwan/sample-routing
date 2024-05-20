@@ -19,3 +19,9 @@
 	</nav>
 	<slot />
 </main>
+
+<style>
+	.container {
+		max-width: 50rem;
+	}
+</style>
